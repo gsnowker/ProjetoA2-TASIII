@@ -101,3 +101,4 @@ A aplicação foi desenvolvida utilizando a arquitetura em camadas para isolar r
 * Igor da Silva Reis - RGM: 44123019
 * Nathan Silva Barros - RGM: 43672027
 * Gabriel de Almeida - RGM: 43473512
+* Felipe Miguel de Souza Alves - RGM: 46042792
