@@ -98,3 +98,6 @@ A aplicação foi desenvolvida utilizando a arquitetura em camadas para isolar r
 * Guilherme Gusman Conceição - RGM: 43471668
 * Mateus Xavier Pinheiro de Jesus - RGM: 45814503
 * Luís Eduardo Rodrigues Munhoz - RGM: 43829333
+* Igor da Silva Reis - RGM: 44123019
+* Nathan Silva Barros - RGM: 43672027
+* Gabriel de Almeida - RGM: 43473512
